@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Navigation_SideMenu/Navigation_SideMenu.Droid/Navigation_SideMenu.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.a8a34f3d" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Navigation_SideMenu/Navigation_SideMenu.WinPhone/Navigation_SideMenu.WinPhone.csproj</String>
+    <String>Navigation_SideMenu/Navigation_SideMenu.Windows/Navigation_SideMenu.Windows.csproj</String>
+    <String>Navigation_SideMenu/Navigation_SideMenu.UWP/Navigation_SideMenu.UWP.csproj</String>
+  </DisabledProjects>
+</Properties>
