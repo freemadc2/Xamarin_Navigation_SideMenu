@@ -1,0 +1,2 @@
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu.WinPhone\Navigation_SideMenu.WinPhone.csproj;neutral
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu.csproj;neutral

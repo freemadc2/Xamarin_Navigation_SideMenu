@@ -1,0 +1,17 @@
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Navigation_SideMenu.dll
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Navigation_SideMenu.pdb
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.MasterPage.xaml.g.cs
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.MainPage.xaml.g.cs
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.ContactsPage.xaml.g.cs
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.TodoListPage.xaml.g.cs
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.ReminderPage.xaml.g.cs
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.dll
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.pdb
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.csprojResolveAssemblyReference.cache
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\obj\Debug\Navigation_SideMenu.dll.mdb
+c:\users\freemjer\documents\visual studio 2015\Projects\Navigation_SideMenu\Navigation_SideMenu\Navigation_SideMenu\bin\Debug\Navigation_SideMenu.dll.mdb
